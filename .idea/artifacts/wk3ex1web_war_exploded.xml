@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="wk3ex1web:war exploded">
+    <output-path>$PROJECT_DIR$/target/wk3ex1web</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="wk3ex1web" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/target/wk3ex1web/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="wk3ex1web/web/Web" />
+    </root>
+  </artifact>
+</component>
