@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: edu.matc.entjava.wk3ex1:wk3ex1:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/edu/matc/entjava/wk3ex1/wk3ex1/1.0-SNAPSHOT/wk3ex1-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/edu/matc/entjava/wk3ex1/wk3ex1/1.0-SNAPSHOT/wk3ex1-1.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/edu/matc/entjava/wk3ex1/wk3ex1/1.0-SNAPSHOT/wk3ex1-1.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
